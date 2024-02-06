@@ -1,5 +1,5 @@
 export const environment = {
   production: true,
-  api: 'https://testologia.site/api/',
-  serverStaticPath: 'https://testologia.site/images/products/',
+  api: 'http://localhost:3000/api/',
+  serverStaticPath: 'http://localhost:3000/images/products/',
 };

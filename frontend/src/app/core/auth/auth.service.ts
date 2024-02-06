@@ -1,4 +1,4 @@
-import { environment } from './../../../environments/environment';
+import { environment } from './../../../environments/environment.production';
 import { HttpClient } from '@angular/common/http';
 import { DefaultResponseType } from './../../../types/default-response.type';
 import { LoginResponseType } from './../../../types/login-response.type';
