@@ -107,6 +107,6 @@ export class HeaderComponent implements OnInit {
   changeShowedSearch(value: boolean) {
     setTimeout(() => {
       this.showedSearch = value;
-    }, 100);
+    }, 1500);
   }
 }
